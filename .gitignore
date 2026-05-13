@@ -1,0 +1,98 @@
+# =========================
+# .NET build outputs
+# =========================
+bin/
+obj/
+
+# Compiled output
+*.dll
+*.exe
+*.class
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+*.lock.json
+
+# Test results
+TestResults/
+coverage/
+*.trx
+*.coverage
+*.coveragexml
+
+# =========================
+# Visual Studio / Rider
+# =========================
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.DotSettings.user
+*.iml
+*.resharper
+*.resharper.user
+
+# Crash dumps
+*.aps
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# OS
+# =========================
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# =========================
+# Private course control docs
+# =========================
+/CONVENTIONS.md
+/COURSE_TODO.md
+/EXERCISES_TEMPLATE.md
+/PITFALLS.md
+/OOP_DESIGN_SCORECARD.md
+/_template-week/
+
+# =========================
+# Lecture publishing
+# =========================
+# Do not publish LaTeX sources to the student repository.
+# Commit the generated PDFs instead.
+/old_lectures/*.tex
+!/old_lectures/OOP_*_24_*.pdf
+
+# LaTeX build byproducts
+/old_lectures/*.aux
+/old_lectures/*.bbl
+/old_lectures/*.bcf
+/old_lectures/*.blg
+/old_lectures/*.fdb_latexmk
+/old_lectures/*.fls
+/old_lectures/*.lof
+/old_lectures/*.log
+/old_lectures/*.lot
+/old_lectures/*.nav
+/old_lectures/*.out
+/old_lectures/*.run.xml
+/old_lectures/*.snm
+/old_lectures/*.synctex.gz
+/old_lectures/*.toc
+/old_lectures/*.vrb
+
+# =========================
+# IDE helpers
+# =========================
+.vscode/
+.vscode/settings.json
+.vscode/launch.json
+.vscode/extensions.json

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>OopCsharp</RootNamespace>
+    <AssemblyName>Week1.Lab</AssemblyName>
+    <IncludeSolutions Condition="'$(IncludeSolutions)' == ''">false</IncludeSolutions>
+  </PropertyGroup>
+
+  <!-- Solutions are excluded by default; pass -p:IncludeSolutions=true to include them. -->
+  <ItemGroup Condition="'$(IncludeSolutions)' == 'false'">
+    <Compile Remove="**/Solutions/**" />
+    <None Include="**/Solutions/**" />
+  </ItemGroup>
+
+</Project>

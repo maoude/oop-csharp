@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <!-- Solutions are excluded from the student build so tests only compile against stubs -->
+  <ItemGroup>
+    <Compile Remove="**/Solutions/**" />
+  </ItemGroup>
+</Project>
