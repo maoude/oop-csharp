@@ -1,3 +1,11 @@
+/*
+ * Course:   Introduction to Object-Oriented Programming with C#
+ * Week:     11 — Tokenizers · Semi-Structured Data · JSON
+ * Author:   Dr. Mohamad AOUDE
+ *
+ * Purpose:  Unit tests for JsonTokenizer exercises (13 tests covering single-char tokens, StringLiteral, NumberLiteral, BooleanLiteral, Null, compound inputs).
+ */
+
 using Xunit;
 using OopCsharp.Week11.Part1_Tokenizer.Exercises;
 

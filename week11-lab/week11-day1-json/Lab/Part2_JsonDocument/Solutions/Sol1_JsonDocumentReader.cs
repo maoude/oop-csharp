@@ -1,3 +1,12 @@
+/*
+ * Course:   Introduction to Object-Oriented Programming with C#
+ * Week:     11 — Tokenizers · Semi-Structured Data · JSON
+ * Author:   Dr. Mohamad AOUDE
+ *
+ * Purpose:  Reference solution for Ex1_JsonDocumentReader. [INSTRUCTOR ONLY]
+ *           Do not open until after submitting your own implementation.
+ */
+
 using System.Text.Json;
 
 namespace OopCsharp.Week11.Part2_JsonDocument.Solutions;

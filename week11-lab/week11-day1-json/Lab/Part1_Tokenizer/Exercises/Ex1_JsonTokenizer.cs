@@ -1,3 +1,12 @@
+/*
+ * Course:   Introduction to Object-Oriented Programming with C#
+ * Week:     11 — Tokenizers · Semi-Structured Data · JSON
+ * Author:   Dr. Mohamad AOUDE
+ *
+ * Purpose:  Student exercise: implement a hand-rolled JSON tokenizer.
+ *           Practice: character dispatch, escape sequences, ReadString / ReadNumber / ReadKeyword helpers.
+ */
+
 using System.Text;
 
 namespace OopCsharp.Week11.Part1_Tokenizer.Exercises;

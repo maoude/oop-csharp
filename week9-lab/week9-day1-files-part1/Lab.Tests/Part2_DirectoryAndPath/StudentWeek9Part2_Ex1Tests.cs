@@ -1,4 +1,11 @@
-// 7 tests
+/*
+ * Course:   Introduction to Object-Oriented Programming with C#
+ * Week:     9 — Files in C# (Part 1) · File and Directory Classes
+ * Author:   Dr. Mohamad AOUDE
+ *
+ * Purpose:  Unit tests for DirectoryOperations exercises (7 tests covering DirectoryExists, EnsureDirectory, ListFiles, ListSubdirectories).
+ */
+
 using OopCsharp.Week9.Part2_DirectoryAndPath.Exercises;
 using Xunit;
 

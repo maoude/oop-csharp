@@ -1,3 +1,11 @@
+/*
+ * Course:   Introduction to Object-Oriented Programming with C#
+ * Week:     6 — Interfaces & Abstract Classes
+ * Author:   Dr. Mohamad AOUDE
+ *
+ * Purpose:  Unit tests for ILogger / LoggerBase abstract-vs-interface exercises (14 tests covering MemoryLogger and FileLogger).
+ */
+
 using OopCsharp.Week6.Part3_AbstractVsInterface.Exercises;
 using Xunit;
 

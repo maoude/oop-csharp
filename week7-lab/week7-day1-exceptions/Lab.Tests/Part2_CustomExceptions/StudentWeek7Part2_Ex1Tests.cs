@@ -1,3 +1,11 @@
+/*
+ * Course:   Introduction to Object-Oriented Programming with C#
+ * Week:     7 — Exception Handling
+ * Author:   Dr. Mohamad AOUDE
+ *
+ * Purpose:  Unit tests for custom exception exercises (13 tests covering TemperatureOutOfRangeException and Thermometer).
+ */
+
 using OopCsharp.Week7.Part2_CustomExceptions.Exercises;
 using Xunit;
 

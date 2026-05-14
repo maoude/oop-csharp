@@ -1,4 +1,11 @@
-// 13 tests
+/*
+ * Course:   Introduction to Object-Oriented Programming with C#
+ * Week:     10 — Files in C# (Part 2) · Streams and File I/O
+ * Author:   Dr. Mohamad AOUDE
+ *
+ * Purpose:  Unit tests for BinaryRecordStore exercises (13 tests covering SaveRecords, LoadRecords, CountRecords via BinaryWriter/Reader).
+ */
+
 using OopCsharp.Week10.Part3_BinaryIO.Exercises;
 using Xunit;
 

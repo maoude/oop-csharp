@@ -1,3 +1,11 @@
+/*
+ * Course:   Introduction to Object-Oriented Programming with C#
+ * Week:     6 — Interfaces & Abstract Classes
+ * Author:   Dr. Mohamad AOUDE
+ *
+ * Purpose:  Unit tests for ITaxable / ProductBase polymorphism exercises (18 tests covering GroceryItem and ElectronicItem).
+ */
+
 using OopCsharp.Week6.Part2_InterfacesAndPolymorphism.Exercises;
 using Xunit;
 

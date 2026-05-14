@@ -1,3 +1,12 @@
+/*
+ * Course:   Introduction to Object-Oriented Programming with C#
+ * Week:     11 — Tokenizers · Semi-Structured Data · JSON
+ * Author:   Dr. Mohamad AOUDE
+ *
+ * Purpose:  Student exercise: typed JSON serialization and deserialization using System.Text.Json.JsonSerializer.
+ *           Practice: Serialize, SerializeIndented, Deserialize, TryDeserialize, [JsonPropertyName] mapping.
+ */
+
 using System.Text.Json;
 using System.Text.Json.Serialization;
 

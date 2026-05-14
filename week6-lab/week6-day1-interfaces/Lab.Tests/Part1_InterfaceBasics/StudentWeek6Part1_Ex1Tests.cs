@@ -1,3 +1,11 @@
+/*
+ * Course:   Introduction to Object-Oriented Programming with C#
+ * Week:     6 — Interfaces & Abstract Classes
+ * Author:   Dr. Mohamad AOUDE
+ *
+ * Purpose:  Unit tests for IPrintable / IPersistable interface exercises (16 tests covering Contact and Invoice).
+ */
+
 using OopCsharp.Week6.Part1_InterfaceBasics.Exercises;
 using Xunit;
 

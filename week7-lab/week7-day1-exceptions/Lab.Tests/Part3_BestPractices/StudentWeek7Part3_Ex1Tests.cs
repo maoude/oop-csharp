@@ -1,3 +1,11 @@
+/*
+ * Course:   Introduction to Object-Oriented Programming with C#
+ * Week:     7 — Exception Handling
+ * Author:   Dr. Mohamad AOUDE
+ *
+ * Purpose:  Unit tests for exception best-practice exercises (12 tests covering SafeQueue and TryDequeue pattern).
+ */
+
 using OopCsharp.Week7.Part3_BestPractices.Exercises;
 using Xunit;
 

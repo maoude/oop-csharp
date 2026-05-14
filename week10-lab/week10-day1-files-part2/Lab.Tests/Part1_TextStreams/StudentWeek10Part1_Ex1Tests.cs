@@ -1,4 +1,11 @@
-// 13 tests
+/*
+ * Course:   Introduction to Object-Oriented Programming with C#
+ * Week:     10 — Files in C# (Part 2) · Streams and File I/O
+ * Author:   Dr. Mohamad AOUDE
+ *
+ * Purpose:  Unit tests for TextStreamProcessor exercises (13 tests covering ReadAllText, ReadLines, WriteLines, AppendLine, CountLines via StreamReader/Writer).
+ */
+
 using OopCsharp.Week10.Part1_TextStreams.Exercises;
 using Xunit;
 

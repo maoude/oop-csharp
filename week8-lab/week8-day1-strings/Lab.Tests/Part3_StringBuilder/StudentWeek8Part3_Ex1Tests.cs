@@ -1,4 +1,11 @@
-// 12 tests
+/*
+ * Course:   Introduction to Object-Oriented Programming with C#
+ * Week:     8 — Strings and StringBuilder
+ * Author:   Dr. Mohamad AOUDE
+ *
+ * Purpose:  Unit tests for TextBuilder StringBuilder exercises (12 tests covering Join, Repeat, ReverseWords, BuildNumberedList).
+ */
+
 using OopCsharp.Week8.Part3_StringBuilder.Exercises;
 using Xunit;
 

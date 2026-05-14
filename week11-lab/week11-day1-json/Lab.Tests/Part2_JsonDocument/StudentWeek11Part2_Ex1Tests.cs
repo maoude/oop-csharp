@@ -1,3 +1,11 @@
+/*
+ * Course:   Introduction to Object-Oriented Programming with C#
+ * Week:     11 — Tokenizers · Semi-Structured Data · JSON
+ * Author:   Dr. Mohamad AOUDE
+ *
+ * Purpose:  Unit tests for JsonDocumentReader exercises (13 tests covering ReadStringProperty, ReadNumberProperty, ReadBoolProperty, ReadStringArray, GetArrayLength, GetObjectKeys).
+ */
+
 using System.Text.Json;
 using Xunit;
 using OopCsharp.Week11.Part2_JsonDocument.Exercises;

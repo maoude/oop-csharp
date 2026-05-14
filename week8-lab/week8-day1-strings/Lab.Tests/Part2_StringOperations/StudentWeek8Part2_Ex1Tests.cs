@@ -1,4 +1,11 @@
-// 7 tests
+/*
+ * Course:   Introduction to Object-Oriented Programming with C#
+ * Week:     8 — Strings and StringBuilder
+ * Author:   Dr. Mohamad AOUDE
+ *
+ * Purpose:  Unit tests for StringSearch exercises (7 tests covering ContainsIgnoreCase, IndexOfIgnoreCase, CountSubstringOccurrences, StartsWithAny).
+ */
+
 using OopCsharp.Week8.Part2_StringOperations.Exercises;
 using Xunit;
 

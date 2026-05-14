@@ -1,3 +1,12 @@
+/*
+ * Course:   Introduction to Object-Oriented Programming with C#
+ * Week:     11 — Tokenizers · Semi-Structured Data · JSON
+ * Author:   Dr. Mohamad AOUDE
+ *
+ * Purpose:  Instructor demo — hand-rolled JSON tokenizer showing character dispatch, escape handling, and keyword matching.
+ *           Read this file before starting Exercise 1.
+ */
+
 using System.Text;
 using System.Text.Json;
 

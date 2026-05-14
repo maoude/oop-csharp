@@ -1,3 +1,11 @@
+/*
+ * Course:   Introduction to Object-Oriented Programming with C#
+ * Week:     7 — Exception Handling
+ * Author:   Dr. Mohamad AOUDE
+ *
+ * Purpose:  Unit tests for SafeCalculator try/catch/finally exercises (12 tests covering Divide, ParseAndAdd, SafeRead, ParseWithFinally).
+ */
+
 using OopCsharp.Week7.Part1_TryCatchFinally.Exercises;
 using Xunit;
 

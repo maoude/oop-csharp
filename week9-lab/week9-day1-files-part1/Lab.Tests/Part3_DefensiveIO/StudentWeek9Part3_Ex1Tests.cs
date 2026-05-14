@@ -1,4 +1,11 @@
-// 13 tests
+/*
+ * Course:   Introduction to Object-Oriented Programming with C#
+ * Week:     9 — Files in C# (Part 1) · File and Directory Classes
+ * Author:   Dr. Mohamad AOUDE
+ *
+ * Purpose:  Unit tests for SafeFileReader defensive I/O exercises (13 tests covering TryReadText, TryWriteText, ReadTextOrDefault, CountLines, AppendLine).
+ */
+
 using OopCsharp.Week9.Part3_DefensiveIO.Exercises;
 using Xunit;
 

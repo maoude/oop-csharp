@@ -1,4 +1,11 @@
-// 13 tests
+/*
+ * Course:   Introduction to Object-Oriented Programming with C#
+ * Week:     10 — Files in C# (Part 2) · Streams and File I/O
+ * Author:   Dr. Mohamad AOUDE
+ *
+ * Purpose:  Unit tests for ByteStreamProcessor FileStream exercises (13 tests covering ReadAllBytes, WriteAllBytes, ReadSegment, AppendBytes).
+ */
+
 using OopCsharp.Week10.Part2_FileStream.Exercises;
 using Xunit;
 

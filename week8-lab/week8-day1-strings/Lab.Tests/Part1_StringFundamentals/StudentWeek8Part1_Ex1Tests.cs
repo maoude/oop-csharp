@@ -1,4 +1,11 @@
-// 13 tests
+/*
+ * Course:   Introduction to Object-Oriented Programming with C#
+ * Week:     8 — Strings and StringBuilder
+ * Author:   Dr. Mohamad AOUDE
+ *
+ * Purpose:  Unit tests for fundamental char and string operations (13 tests covering IsVowel, CountChars, ReverseString, IsPalindrome, IsAllDigits, CountWords).
+ */
+
 using OopCsharp.Week8.Part1_StringFundamentals.Exercises;
 using Xunit;
 

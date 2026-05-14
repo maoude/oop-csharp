@@ -1,3 +1,12 @@
+/*
+ * Course:   Introduction to Object-Oriented Programming with C#
+ * Week:     11 — Tokenizers · Semi-Structured Data · JSON
+ * Author:   Dr. Mohamad AOUDE
+ *
+ * Purpose:  Student exercise: read JSON dynamically using System.Text.Json.JsonDocument.
+ *           Practice: TryGetProperty, ValueKind guards, using-statement disposal, EnumerateArray/EnumerateObject.
+ */
+
 using System.Text.Json;
 
 namespace OopCsharp.Week11.Part2_JsonDocument.Exercises;

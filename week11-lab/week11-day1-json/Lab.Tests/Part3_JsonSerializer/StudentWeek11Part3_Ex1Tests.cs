@@ -1,3 +1,11 @@
+/*
+ * Course:   Introduction to Object-Oriented Programming with C#
+ * Week:     11 — Tokenizers · Semi-Structured Data · JSON
+ * Author:   Dr. Mohamad AOUDE
+ *
+ * Purpose:  Unit tests for JsonSerializerHelper exercises (13 tests covering Serialize, SerializeIndented, Deserialize, TryDeserialize, round-trips).
+ */
+
 using System.Text.Json;
 using Xunit;
 using OopCsharp.Week11.Part3_JsonSerializer.Exercises;

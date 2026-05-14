@@ -1,3 +1,12 @@
+/*
+ * Course:   Introduction to Object-Oriented Programming with C#
+ * Week:     11 — Tokenizers · Semi-Structured Data · JSON
+ * Author:   Dr. Mohamad AOUDE
+ *
+ * Purpose:  Instructor demo — System.Text.Json JsonDocument: TryGetProperty, ValueKind checks, array/object enumeration, disposal.
+ *           Read this file before starting Exercise 1.
+ */
+
 using System.Text.Json;
 
 namespace OopCsharp.Week11.Part2_JsonDocument.Demo;

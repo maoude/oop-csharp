@@ -1,4 +1,11 @@
-// 13 tests
+/*
+ * Course:   Introduction to Object-Oriented Programming with C#
+ * Week:     9 — Files in C# (Part 1) · File and Directory Classes
+ * Author:   Dr. Mohamad AOUDE
+ *
+ * Purpose:  Unit tests for FileOperations exercises (13 tests covering FileExists, ReadText, WriteText, AppendText, ReadLines, CopyFile, GetFileSize).
+ */
+
 using OopCsharp.Week9.Part1_FileOperations.Exercises;
 using Xunit;
 
